@@ -1,4 +1,4 @@
-# Semester 6 - ###B.Tech Computer Science Engineering , CUSAT 2019 Admissions Scheme
+# Semester 6 - B.Tech Computer Science Engineering , CUSAT 2019 Admissions Scheme
 
 ### [B.Tech CS Syllabus PDF - 2019 Admissions](https://soe.cusat.ac.in/files/syllabus/files/CS-%20SCHEME_2019-NEW-21-3-2021.pdf) :point_left:
 
