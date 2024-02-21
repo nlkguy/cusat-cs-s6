@@ -1,7 +1,7 @@
 # Semester 6 - B.Tech Computer Science Engineering , CUSAT 2019 Admissions Scheme
 
 ### [B.Tech CS Syllabus PDF - 2019 Admissions](https://soe.cusat.ac.in/files/syllabus/files/CS-%20SCHEME_2019-NEW-21-3-2021.pdf) :point_left:
-### [Previous Year Question Papers - Google Drive]() :point_left:
+### [Previous Year Question Papers - Google Drive](https://drive.google.com/drive/folders/103fI6Az8VFlzECuTYBniOk0BhzDehyD5) :point_left:
 ### [Previous Year Question Papers - GitHub](/pyq/) :point_left:
 
 ### [s6 Notes - Google Drive]() :point_left:
