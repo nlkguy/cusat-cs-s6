@@ -2,6 +2,8 @@
 
 ### [B.Tech CS Syllabus PDF - 2019 Admissions](https://soe.cusat.ac.in/files/syllabus/files/CS-%20SCHEME_2019-NEW-21-3-2021.pdf) :point_left:
 ### [Previous Year Question Papers - Google Drive]() :point_left:
+### [Previous Year Question Papers - GitHub](/pyq/) :point_left:
+
 ### [s6 Notes - Google Drive]() :point_left:
 ### [s6 Books - Google Drive]() :point_left:
 ### []() :point_left:
