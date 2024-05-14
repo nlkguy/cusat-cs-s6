@@ -4,8 +4,8 @@
 ### [Previous Year Question Papers - Google Drive](https://drive.google.com/drive/folders/103fI6Az8VFlzECuTYBniOk0BhzDehyD5) :point_left:
 ### [Previous Year Question Papers - GitHub](/pyq/) :point_left:
 
-### [s6 Notes - Kailas  -   Google Drive]() :point_left:
-### [s6 Notes - Sritabh -   Google Drive]() :point_left:
+### [s6 Notes - Kailas  -   Google Drive](https://drive.google.com/drive/folders/13QOq3udc1pDfaoAxg4Mz06RdffyDgnI-) :point_left:
+### [s6 Notes - Sritabh -   Google Drive](https://drive.google.com/drive/folders/1AJbgIfKpjCq005Nm6-beS3MyoIU4hiQM) :point_left:
 
 ### [s6 Books - Google Drive]() :point_left:
 ### []() :point_left:
